@@ -29,5 +29,4 @@ while x == 0:
         b = 0
     elif operation == 5:
         print("see you for next projects ")
-        print("We will work on projects about you soon <3<3<3")
         break
